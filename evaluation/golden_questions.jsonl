@@ -1,0 +1,10 @@
+{"question":"Apa yang harus dilakukan ketika layanan kritis tidak tersedia untuk banyak pelanggan?","expected_sources":["incident_response.md"]}
+{"question":"Apa perbedaan SEV-1 dan SEV-3?","expected_sources":["incident_response.md"]}
+{"question":"Informasi apa yang perlu dicatat saat memulai investigasi insiden?","expected_sources":["incident_response.md"]}
+{"question":"Apa yang perlu dilakukan sebelum deployment aplikasi?","expected_sources":["deployment_runbook.md"]}
+{"question":"Kapan rollback perlu dipertimbangkan setelah deployment?","expected_sources":["deployment_runbook.md"]}
+{"question":"Bagaimana sebaiknya API key disimpan?","expected_sources":["access_control.md"]}
+{"question":"Apakah permintaan tool dari model bahasa membuktikan bahwa pengguna berhak menjalankan tindakan destruktif?","expected_sources":["access_control.md"]}
+{"question":"Apa langkah penting sebelum memulihkan backup produksi?","expected_sources":["backup_restore.md"]}
+{"question":"Apakah backup yang berhasil berarti data pasti bisa dipulihkan?","expected_sources":["backup_restore.md"]}
+{"question":"Apa yang harus dipantau setelah deployment?","expected_sources":["deployment_runbook.md"]}
